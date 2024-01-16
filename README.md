@@ -1,18 +1,13 @@
 # Project-BETA
 
-`Project_BETA` is TextNovelGAME develop project by Team DARKSIDE.industry
+`Project_BETA` is TextNovelGAME develop project by Team DARKSIDE.industry  
 
-
-
- 
-## with 
+## with
 ## Team YSS.industry Member
  #### JeonTUBE: Main Developer
  #### SoHaRRRRd: Main Scenarist
- #### HANYOUHA in the BBBlaB: Main Director
-
-
-
+ #### HANYOUHA in the BBBlaB: Main Director  
+ 
  ## Project-BETA Focus Group Tester
   #### Pigeon999
 
