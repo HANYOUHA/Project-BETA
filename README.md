@@ -2,7 +2,6 @@
 
 `Project_BETA` is TextNovelGAME develop project by Team DARKSIDE.industry
 
-## by Team DARKSIDE.industry
 
 
  
@@ -19,3 +18,7 @@
 
  ## Project-BETA Focus Group Tester
   #### Pigeon999
+
+
+
+##### by Team DARKSIDE.industry
