@@ -2,7 +2,7 @@
 
 # Project-BETA
 
-`Project_BETA` is TextNovelGAME develop project by Team DARKSIDE.industry  
+`Project-BETA` is TextNovelGAME develop project by Team DARKSIDE.industry  
 
 ## with
 ### Team YSS.industry Member
