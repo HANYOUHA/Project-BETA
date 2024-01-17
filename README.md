@@ -7,7 +7,7 @@
 ## with
 ### Team DARKSIDE.industry Member
  #### JeonTUBE: Main Developer
- #### TooooHaRRRRd: Main Scenarist
+ #### SoHaRRRRd: Main Scenarist
  #### HANYOUHA in the BBBlaB: Main Director  
  
  ## Project-BETA Focus Group Tester
